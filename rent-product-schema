@@ -1,0 +1,36 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "首泰大直面中庭 (C163129)",
+  "image": [
+  "http://album.s3.hicloud.net.tw/C163129/A.JPG",
+  "http://album.s3.hicloud.net.tw/C163129/B.JPG",
+  "http://album.s3.hicloud.net.tw/C163129/C.JPG"
+   ],
+  "description": "	
+首泰大直面中庭,台北市中山區敬業一路,$150,000元/月,78.27坪,4房2廳2衛0室,沙發、床組、衣櫃、冷氣、洗衣機、熱水器、天然瓦斯,近百貨公司、有警衛管理,信義房屋給您最即時的租屋訊息。",
+  "mpn": "C163129",
+  "brand": {
+    "@type": "Organization",
+    "name": "信義房屋"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "100"
+    //這邊的評價分數及評論人數可以暫時不要寫上，若未來有評論系統，建議可以直接串接評論資料。
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "TWD",
+    "price": "150,000",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "信義房屋"
+    }
+  }
+}
+</script>
